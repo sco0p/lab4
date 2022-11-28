@@ -1,0 +1,4 @@
+C:\Users\ozima\source\repos\OOPLab4\ConsoleApp1\obj\Debug\netcoreapp3.1\ApplicationLicense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozima\source\repos\OOPLab4\ConsoleApp1\obj\Debug\netcoreapp3.1\ApplicationLicense.AssemblyInfoInputs.cache
+C:\Users\ozima\source\repos\OOPLab4\ConsoleApp1\obj\Debug\netcoreapp3.1\ApplicationLicense.AssemblyInfo.cs
+C:\Users\ozima\source\repos\OOPLab4\ConsoleApp1\obj\Debug\netcoreapp3.1\ApplicationLicense.csproj.CoreCompileInputs.cache

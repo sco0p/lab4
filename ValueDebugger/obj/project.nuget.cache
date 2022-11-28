@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cE6q87s57V6MeKVV10SI/RRA5imku+kReMaLyJEwAlhYl/G6JjjY+j+ckRfCvJGa1ALx3T9kMZrWm2YB9NBSDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozima\\source\\repos\\OOPLab4\\ValueDebugger\\ValueDebugger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.22\\microsoft.netcore.app.host.win-x86.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

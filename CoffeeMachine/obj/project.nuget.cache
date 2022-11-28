@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZ3i0cMhPFFYlegxVbGG8eoTHCH6Y2uKHX+e1NLbfuFAMr/wYlBsMuEP8gK3JjBk8HmCwmdy/EsPFyyLnfzxuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozima\\source\\repos\\OOPLab4\\CoffeeMachine\\CoffeeMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.22\\microsoft.netcore.app.host.win-x86.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
